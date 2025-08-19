@@ -15,16 +15,6 @@ This is Mern Stack Project in which we use the Reactjs Nodejs Express MongoDB, G
     - 2. In Main folder run `npm i` and then `npm start` for run both code at one time
 
 
-### Output:
-![Image 1](screenshots/home.png)
-![Image 2](screenshots/rec.png)
-![Image 1](screenshots/dashboard.png)
-![Image 2](screenshots/ai1.png)
-![Image 1](screenshots/ai2.png)
-![Image 2](screenshots/jobs.png)
-![Image 1](screenshots/jobdecription.png)
-![Image 2](screenshots/R_company.png)
-![Image 1](screenshots/jobs.png)
 
 
 
